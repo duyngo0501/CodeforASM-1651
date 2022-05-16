@@ -1,0 +1,14 @@
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.exe
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.deps.json
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.runtimeconfig.json
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.runtimeconfig.dev.json
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.dll
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\bin\Debug\netcoreapp3.1\Gamingmanagement.pdb
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.csproj.AssemblyReference.cache
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.AssemblyInfoInputs.cache
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.AssemblyInfo.cs
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.csproj.CoreCompileInputs.cache
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.dll
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.pdb
+C:\Users\DUY\source\repos\Gamingmanagement\Gamingmanagement\obj\Debug\netcoreapp3.1\Gamingmanagement.genruntimeconfig.cache
